@@ -1,0 +1,9 @@
+Pandas
+numpy
+sklearn
+pywin32
+docx
+nltk
+re
+matplotlin
+seaborn
